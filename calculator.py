@@ -1,0 +1,8 @@
+num1=input('Enter the first number: ')
+num1=int(num1)
+num2=input('Enter the second number: ')
+num2=int(num2)
+print(f"Sum :{num1+num2}")
+print(f"Difference:{num1-num2}")
+print(f"Multiply:{num1*num2}")
+print(f"Divide:{num1/num2}")

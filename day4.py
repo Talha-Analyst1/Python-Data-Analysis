@@ -1,0 +1,7 @@
+city=input("ap kis city sy belong krty ho? ")
+print(city)
+name=input("Whats your name? ")
+print("Hello",name)
+age=input("Enter your age? ")
+age=int(age)
+print(age+10)

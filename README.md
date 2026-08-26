@@ -27,3 +27,12 @@ To become confident in Python for data cleaning, analysis, and visualization, in
 ## 🛠️ Tools Used
 - Python
 - VS Code
+
+### Week 2: Control Flow ✅
+- **Day 8:** `if / else` statements
+- **Day 9:** Nested if statements
+- **Day 10:** Logical operators (`and`)
+- **Day 11:** `for` loop and `range()`
+- **Day 12:** `while` loop
+- **Day 13:** `break`, `continue`, `pass`
+- **Day 14:** Mini Project — Number Checker: even/odd detection and grade classification (`number_checker.py`)

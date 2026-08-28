@@ -36,3 +36,12 @@ To become confident in Python for data cleaning, analysis, and visualization, in
 - **Day 12:** `while` loop
 - **Day 13:** `break`, `continue`, `pass`
 - **Day 14:** Mini Project — Number Checker: even/odd detection and grade classification (`number_checker.py`)
+
+### Week 3: Data Structures ✅
+- **Day 15:** Lists — creation and indexing
+- **Day 16:** List methods (`append`, `remove`, `sort`)
+- **Day 17:** Tuples (immutable data)
+- **Day 18:** Dictionaries — key-value pairs
+- **Day 19:** Sets — unique values
+- **Day 20:** Nested data structures (list of dictionaries)
+- **Day 21:** Mini Project — Student Records System (`student_records.py`)

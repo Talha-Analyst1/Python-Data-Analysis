@@ -45,3 +45,12 @@ To become confident in Python for data cleaning, analysis, and visualization, in
 - **Day 19:** Sets — unique values
 - **Day 20:** Nested data structures (list of dictionaries)
 - **Day 21:** Mini Project — Student Records System (`student_records.py`)
+
+### Week 4: Functions & File Handling ✅
+- **Day 22:** Functions — `def`, parameters, `return`
+- **Day 23:** Default arguments and `*args`
+- **Day 24:** Lambda functions
+- **Day 25:** Modules and `import`
+- **Day 26:** File handling — reading and writing files
+- **Day 27:** Exception handling — `try/except`
+- **Day 28:** Mini Project — Student Data Logger (`student_data_logger.py`)

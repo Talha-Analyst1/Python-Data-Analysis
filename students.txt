@@ -1,0 +1,12 @@
+Talha,22,Faisalabad
+Ahmed,25,Lahore
+Sara,21,Karachi
+90,90
+90,90
+90,90
+60,70
+70,70
+7,7
+Talha,90
+Ahmed,80
+Taha,70

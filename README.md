@@ -54,3 +54,12 @@ To become confident in Python for data cleaning, analysis, and visualization, in
 - **Day 26:** File handling — reading and writing files
 - **Day 27:** Exception handling — `try/except`
 - **Day 28:** Mini Project — Student Data Logger (`student_data_logger.py`)
+
+
+### Week 5-6: NumPy Fundamentals ✅
+- **Day 29:** NumPy intro — arrays (`np.array()`)
+- **Day 30:** Array indexing and slicing
+- **Day 31:** Broadcasting — vectorized operations without loops
+- **Day 32:** Aggregation functions (`sum`, `mean`, `max`, `min`)
+- **Day 33:** Random number generation (`np.random`)
+- **Day 34:** Mini Project — Statistics Calculator (`stats_calculator.py`)

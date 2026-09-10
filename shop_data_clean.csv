@@ -1,0 +1,11 @@
+Product,Category,Price,Units_Sold
+Laptop,Electronics,75000.0,12.0
+Mobile,Electronics,35000.0,
+Tablet,Electronics,,18.0
+Headphones,Accessories,3000.0,40.0
+Smartwatch,Accessories,8000.0,22.0
+Charger,Accessories,1500.0,55.0
+Keyboard,Accessories,2500.0,30.0
+Monitor,Electronics,15000.0,
+Mouse,Accessories,800.0,60.0
+Printer,Electronics,12000.0,8.0

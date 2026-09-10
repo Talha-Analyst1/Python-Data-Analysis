@@ -63,3 +63,18 @@ To become confident in Python for data cleaning, analysis, and visualization, in
 - **Day 32:** Aggregation functions (`sum`, `mean`, `max`, `min`)
 - **Day 33:** Random number generation (`np.random`)
 - **Day 34:** Mini Project — Statistics Calculator (`stats_calculator.py`)
+
+
+### Week 7-9: Pandas Fundamentals ✅
+- **Day 35:** Series and DataFrames
+- **Day 36:** Reading CSV files (`read_csv`)
+- **Day 37:** Filtering rows based on conditions
+- **Day 38:** `.loc` and `.iloc` — selecting rows/columns
+- **Day 39:** `groupby()` — grouping and summarizing data
+- **Day 40:** `merge()` — joining multiple tables
+- **Day 41:** Handling missing data (`isnull`, `dropna`, `fillna`)
+- **Day 42:** Sorting data (`sort_values`)
+- **Day 43:** Pivot tables
+- **Day 44:** Exporting data (`to_csv`)
+- **Day 45:** Renaming columns
+- **Mini Project:** Shop Data Analysis — cleaning, sorting, filtering, and exporting sales data (`shop_project.py`)

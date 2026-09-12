@@ -78,3 +78,15 @@ To become confident in Python for data cleaning, analysis, and visualization, in
 - **Day 44:** Exporting data (`to_csv`)
 - **Day 45:** Renaming columns
 - **Mini Project:** Shop Data Analysis — cleaning, sorting, filtering, and exporting sales data (`shop_project.py`)
+
+- 
+### Week 10-11: Data Visualization (Matplotlib) ✅
+- **Day 46:** `value_counts()` — counting unique values
+- **Day 47:** `drop_duplicates()` — handling duplicate data
+- **Day 48:** `apply()` — applying custom functions to columns
+- **Day 49:** `read_excel()` — reading Excel files
+- **Day 50:** Bar charts (`plt.bar()`)
+- **Day 51:** Line charts and pie charts (`plt.plot()`, `plt.pie()`)
+- **Day 52:** Histograms (`plt.hist()`)
+- **Day 53:** Chart customization — titles and axis labels
+- **Day 54:** Combining Pandas and Matplotlib for direct data visualization

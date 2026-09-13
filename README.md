@@ -90,3 +90,16 @@ To become confident in Python for data cleaning, analysis, and visualization, in
 - **Day 52:** Histograms (`plt.hist()`)
 - **Day 53:** Chart customization — titles and axis labels
 - **Day 54:** Combining Pandas and Matplotlib for direct data visualization
+
+- 
+### Final Project: End-to-End Data Analysis ✅
+- **Project:** Shop Sales Analysis (`final_project.py`)
+- Reading raw sales data from CSV
+- Cleaning missing values
+- Creating calculated columns (Total Sales)
+- Grouping and aggregating data by category
+- Identifying best-selling products
+- Visualizing results with Matplotlib
+- Exporting cleaned and analyzed data
+
+This project combines everything learned throughout this journey — Python fundamentals, NumPy, Pandas, and Matplotlib — into one complete, real-world data analysis workflow.
